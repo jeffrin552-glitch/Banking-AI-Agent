@@ -1,0 +1,105 @@
+{
+  "accounts": [
+    {
+      "account_id": "ACC001",
+      "name": "Ramu",
+      "full_name": "Ramu Kumar",
+      "phone": "9876543210",
+      "balance": 37491.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-01-15"
+    },
+    {
+      "account_id": "ACC002",
+      "name": "Vishnu",
+      "full_name": "Vishnu Prasad",
+      "phone": "9876543211",
+      "balance": 40410.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-02-20"
+    },
+    {
+      "account_id": "ACC003",
+      "name": "Priya",
+      "full_name": "Priya Sharma",
+      "phone": "9876543212",
+      "balance": 18500.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-03-10"
+    },
+    {
+      "account_id": "ACC004",
+      "name": "Suresh",
+      "full_name": "Suresh Babu",
+      "phone": "9876543213",
+      "balance": 105000.0,
+      "account_type": "Current",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-04-05"
+    },
+    {
+      "account_id": "ACC005",
+      "name": "Anitha",
+      "full_name": "Anitha Devi",
+      "phone": "9876543214",
+      "balance": 9800.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-05-18"
+    },
+    {
+      "account_id": "ACC006",
+      "name": "Rajesh",
+      "full_name": "Rajesh Nair",
+      "phone": "9876543215",
+      "balance": 140000.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-06-22"
+    },
+    {
+      "account_id": "ACC007",
+      "name": "Kavitha",
+      "full_name": "Kavitha Menon",
+      "phone": "9876543216",
+      "balance": 45000.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-07-30"
+    },
+    {
+      "account_id": "ACC008",
+      "name": "Murugan",
+      "full_name": "Murugan Selvam",
+      "phone": "9876543217",
+      "balance": 22500.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-08-14"
+    },
+    {
+      "account_id": "ACC009",
+      "name": "Lakshmi",
+      "full_name": "Lakshmi Iyer",
+      "phone": "9876543218",
+      "balance": 63000.0,
+      "account_type": "Savings",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-09-01"
+    },
+    {
+      "account_id": "ACC010",
+      "name": "Kiran",
+      "full_name": "Kiran Reddy",
+      "phone": "9876543219",
+      "balance": 77990.0,
+      "account_type": "Current",
+      "ifsc": "BANK0001234",
+      "created_at": "2023-10-12"
+    }
+  ],
+  "transactions": []
+}
